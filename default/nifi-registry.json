@@ -87,7 +87,7 @@
       "properties" : {
         "Create Missing Directories" : "true",
         "Directory" : "C:\\Development\\innovation\\Nifi\\ouput_files",
-        "Conflict Resolution Strategy" : "fail"
+        "Conflict Resolution Strategy" : "ignore"
       },
       "propertyDescriptors" : {
         "Group" : {
@@ -258,6 +258,6 @@
   "snapshotMetadata" : {
     "author" : "fc68ccf9-0b9c-426a-92ee-e529412d3e54",
     "flowIdentifier" : "nifi-registry",
-    "timestamp" : 1761626452564
+    "timestamp" : 1761626887868
   }
 }
