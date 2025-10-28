@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1761626450829,
+    "description" : "nifi-registry",
+    "identifier" : "nifi-registry",
+    "lastModifiedTimestamp" : 1761626450829,
+    "name" : "nifi-registry",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
